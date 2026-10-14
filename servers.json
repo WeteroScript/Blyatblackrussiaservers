@@ -1,6 +1,12 @@
 [
-  {"online":"100","maxonline":"100","color":"38383D","x2":false,"key":"1424","name":"","firstname":"P2","secondname":"","url":"","ip":"80.66.82.19","port":"7020","id":201},
-  {"online":"100","maxonline":"100","color":"38383D","x2":false,"key":"1424","name":"","firstname":"P3","secondname":"","url":"","ip":"80.66.82.19","port":"7030","id":202},
-  {"online":"100","maxonline":"100","color":"38383D","x2":false,"key":"1424","name":"","firstname":"P4","secondname":"","url":"","ip":"80.66.82.19","port":"7040","id":203},
-  {"online":"100","maxonline":"100","color":"23282B","x2":false,"key":"1424","name":"","firstname":"Test-Core","secondname":"","url":"","ip":"87.228.101.206","port":"7777","id":9999}
+  {"id":1,"online":"100","maxonline":"1300","color":"FF0000","x2":"false","key":"1424","name":"TEST1","firstname":"TEST1","secondname":"","url":"","ip":"80.66.82.19","port":"7020"},
+  {"id":2,"online":"100","maxonline":"1300","color":"00FF00","x2":"false","key":"1424","name":"TEST2","firstname":"TEST2","secondname":"","url":"","ip":"80.66.82.19","port":"7030"},
+  {"id":3,"online":"100","maxonline":"1300","color":"0000FF","x2":"false","key":"1424","name":"TEST3","firstname":"TEST3","secondname":"","url":"","ip":"80.66.82.19","port":"7040"},
+  {"id":4,"online":"100","maxonline":"1300","color":"FFFF00","x2":"false","key":"1424","name":"TEST4","firstname":"TEST4","secondname":"","url":"","ip":"80.66.82.19","port":"7090"},
+  {"id":5,"online":"100","maxonline":"1300","color":"FF00FF","x2":"false","key":"1424","name":"TEST5","firstname":"TEST5","secondname":"","url":"","ip":"87.228.101.206","port":"7777"},
+  {"id":6,"online":"100","maxonline":"1300","color":"00FFFF","x2":"false","key":"1424","name":"TEST6","firstname":"TEST6","secondname":"","url":"","ip":"80.66.82.150","port":"5125"},
+  {"id":7,"online":"100","maxonline":"1300","color":"FFA500","x2":"false","key":"1424","name":"TEST7","firstname":"TEST7","secondname":"","url":"","ip":"5.188.118.53","port":"7710"},
+  {"id":8,"online":"100","maxonline":"1300","color":"800080","x2":"false","key":"1424","name":"TEST8","firstname":"TEST8","secondname":"","url":"","ip":"5.188.118.53","port":"7820"},
+  {"id":9,"online":"100","maxonline":"1300","color":"CCFF00","x2":"false","key":"1424","name":"TEST9","firstname":"TEST9","secondname":"","url":"","ip":"5.188.118.53","port":"7850"},
+  {"id":10,"online":"100","maxonline":"1300","color":"FF69B4","x2":"false","key":"1424","name":"TEST10","firstname":"TEST10","secondname":"","url":"","ip":"5.188.118.53","port":"7880"}
 ]
