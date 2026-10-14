@@ -1,1 +1,6 @@
-[{"online":"100","maxonline":"100","color":"FF0000","x2":false,"key":"1424","name":"TEST_SERVER","firstname":"TEST_SERVER","secondname":"","url":"","ip":"127.0.0.1","port":"1234","id":999}]
+[
+  {"online":"100","maxonline":"100","color":"38383D","x2":false,"key":"1424","name":"","firstname":"P2","secondname":"","url":"","ip":"80.66.82.19","port":"7020","id":201},
+  {"online":"100","maxonline":"100","color":"38383D","x2":false,"key":"1424","name":"","firstname":"P3","secondname":"","url":"","ip":"80.66.82.19","port":"7030","id":202},
+  {"online":"100","maxonline":"100","color":"38383D","x2":false,"key":"1424","name":"","firstname":"P4","secondname":"","url":"","ip":"80.66.82.19","port":"7040","id":203},
+  {"online":"100","maxonline":"100","color":"23282B","x2":false,"key":"1424","name":"","firstname":"Test-Core","secondname":"","url":"","ip":"87.228.101.206","port":"7777","id":9999}
+]
